@@ -1,0 +1,3 @@
+For any solutions that work but fail certain test cases related to time, the number of cases they pass and the reason they fail others will be listed here.
+
+DailyTemperatures passes 27/37 test cases. It fails test cases because it exceeds the time limit. The current solution (2/5/2020) works but is not optimized for time.
